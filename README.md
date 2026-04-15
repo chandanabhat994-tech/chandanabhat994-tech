@@ -45,8 +45,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chandanabhat994-tech&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanabhat994-tech&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandanabhat994-tech&show_icons=true&theme=radical"/>
 </p>
 
 ---
