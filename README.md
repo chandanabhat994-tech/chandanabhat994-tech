@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Developer | Python • Java • AI/ML | Building Real-World Projects</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" />
 </p>
 
 ---
@@ -34,10 +34,11 @@
 
 ### 📌 Featured Projects
 
-- 🌾 **Food Security Pattern Analyzer**
-- 💸 **Expense Tracker with ML**
-- 🛡️ **Enhancing Network Security**
-- 🧑‍🎓 **Student Information System**
+-  **Food Security Pattern Analyzer**
+-  **My Portfolio**
+
+
+
 
 ---
 
