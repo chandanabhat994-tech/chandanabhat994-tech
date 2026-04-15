@@ -2,9 +2,6 @@
 <h2 align="center">I'm Chandana Bhat</h2>
 <h3 align="center">💻 Software Developer | Python • Java • AI/ML | Building Real-World Projects</h3>
 
-<p align="center">
-  <img src="./girl-coding.jpg" width="260" alt="Girl coding" />
-</p>
 
 
 
