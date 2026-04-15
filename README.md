@@ -3,7 +3,8 @@
 <h3 align="center">💻 Software Developer | Python • Java • AI/ML | Building Real-World Projects</h3>
 
 <p align="center">
-  <img src="<img src="https://komarev.com/ghpvc/?username=chandanabhat994-tech&label=Profile%20views&color=0e75b6&style=flat" />" />
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
 </p>
 
 ---
