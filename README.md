@@ -3,7 +3,7 @@
 <h3 align="center">💻 Software Developer | Python • Java • AI/ML | Building Real-World Projects</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" />
+  <img src="./girl-coding.jpg" width="260" alt="Girl coding" />
 </p>
 
 ---
