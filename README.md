@@ -3,15 +3,12 @@
 <h3 align="center">💻 Software Developer | Python • Java • AI/ML | Building Real-World Projects</h3>
 
 <p align="center">
-<p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
-</p>
+
 
 ---
 
