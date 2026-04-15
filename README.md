@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 PES University | Former BCA Student @ JSS Mysore
+- 🎓 MCA at PES University | Former BCA Student @ JSS Mysore
 - 💡 Strong interest in **Software Development & AI/ML**
 - 🚀 Built projects like **Food Security Analyzer & ML Expense Tracker**
 - 🛠️ Focused on **real-world problem solving**
