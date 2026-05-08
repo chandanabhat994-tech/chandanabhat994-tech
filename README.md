@@ -54,6 +54,8 @@
 
 -  **Food Security Pattern Analyzer**
 -  **My Portfolio**
+-  **Network Intrusion Detection System**
+-  **AI Expense Tracker**
 
 
 
