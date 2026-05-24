@@ -13,7 +13,6 @@
 
 - 🎓 MCA at PES University | Former BCA Student @ JSS Mysore
 - 💡 Strong interest in **Software Development & AI/ML**
-- 🚀 Built projects like **Food Security Analyzer & ML Expense Tracker**
 - 🛠️ Focused on **real-world problem solving**
 - 🌱 Currently learning **Full Stack Development + AI Integration**
 
@@ -52,10 +51,11 @@
 
 ### 📌 Featured Projects
 
--  **Food Security Pattern Analyzer**
 -  **My Portfolio**
+-  **Food Security Pattern Analyzer**
 -  **Network Intrusion Detection System**
--  **AI Expense Tracker**
+-  **DuoTrip**
+-  **CodeXplain**
 
 
 
