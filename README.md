@@ -52,10 +52,10 @@
 ### 📌 Featured Projects
 
 -  **My Portfolio**
--  **Food Security Pattern Analyzer**
 -  **Network Intrusion Detection System**
 -  **DuoTrip**
 -  **CodeXplain**
+-  **FindMeds**
 
 
 
