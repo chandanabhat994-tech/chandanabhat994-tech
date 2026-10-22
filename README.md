@@ -52,10 +52,12 @@
 
 -  **My Portfolio**
 -  **Network Intrusion Detection System**
+-  **EventSync**
+-  **MerchantPulse**
+-  **HazardLens**
 -  **DuoTrip**
 -  **CodeXplain**
 -  **FindMeds**
-
 
 ---
 
