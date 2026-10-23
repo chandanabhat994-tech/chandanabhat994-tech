@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋</h1>
 <h2 align="center">I'm Chandana Bhat</h2>
-<h3 align="center">💻 Software Developer | Python • Java • AI/ML | Building Real-World Projects</h3>
+<h3 align="center">💻 Software Developer |  Java • Python  • AI/ML | Building Real-World Projects</h3>
 
 
 
